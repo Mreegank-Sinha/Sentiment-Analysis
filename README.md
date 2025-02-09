@@ -18,7 +18,12 @@ This project applies BERT (Bidirectional Encoder Representations from Transforme
 📌 Dataset
 The dataset consists of customer reviews scraped from a restaurant review website. The scraped data includes:
 
+
 Review text: The actual customer feedback
+
 Rating (optional): Star-based ratings (if available)
+
 Date of review: Helps analyze sentiment trends over time
+
 The data is preprocessed to remove special characters, stopwords, and redundant text, followed by tokenization using BERT’s tokenizer.
+
