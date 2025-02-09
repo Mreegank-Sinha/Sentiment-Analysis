@@ -5,10 +5,15 @@ This project applies BERT (Bidirectional Encoder Representations from Transforme
 🔹 Project Highlights
 
 ✅ Web scraping to collect real-world restaurant reviews
+
 ✅ Data preprocessing, including text cleaning and tokenization
+
 ✅ Fine-tuning BERT for sentiment classification
+
 ✅ Evaluation metrics: Accuracy, Precision, Recall, and F1-score
+
 ✅ Scalable and customizable for different industries
+
 
 📌 Dataset
 The dataset consists of customer reviews scraped from a restaurant review website. The scraped data includes:
