@@ -3,6 +3,7 @@ Introduction
 This project applies BERT (Bidirectional Encoder Representations from Transformers) for sentiment analysis on restaurant reviews collected via web scraping. By leveraging deep learning and NLP techniques, the model classifies customer feedback as positive, negative, or neutral, providing valuable insights for restaurant businesses.
 
 🔹 Project Highlights
+
 ✅ Web scraping to collect real-world restaurant reviews
 ✅ Data preprocessing, including text cleaning and tokenization
 ✅ Fine-tuning BERT for sentiment classification
